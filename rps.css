@@ -1,0 +1,22 @@
+body  {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+button {
+  margin: auto;
+  width: 30%;
+}
+
+.player {
+  position: absolute;
+  left: 30%;
+  top: 30%;
+}
+
+.computer {
+  position: absolute;
+  right: 30%;
+  top: 30%;
+}
